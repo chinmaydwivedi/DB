@@ -1,0 +1,14 @@
+{
+  "task_name": "e2e-test-fibonacci",
+  "source_file": "tasks/e2e-test-fibonacci.yaml",
+  "commit_sha": "ad1bbb9ed533f0845f625ff661f67d21a4c0e264",
+  "status": "failed",
+  "exit_code": -1,
+  "stdout": "",
+  "stderr": "",
+  "started_at": "2026-03-09T08:59:33.362379+00:00",
+  "finished_at": null,
+  "execution_time_ms": null,
+  "memory_used_bytes": null,
+  "error_message": "Task file 'tasks/e2e-test-fibonacci.yaml' must contain a YAML mapping, got NoneType"
+}
