@@ -1,0 +1,9 @@
+{
+  "processed_tasks": {
+    "tasks/e2e-test-fibonacci.yaml": {
+      "commit_sha": "029c1af038cf5245db8d87a41e81636aa2520f30",
+      "processed_at": "2026-03-09T08:58:33.735818Z",
+      "result_file": "results/e2e-test-fibonacci-result.json"
+    }
+  }
+}
