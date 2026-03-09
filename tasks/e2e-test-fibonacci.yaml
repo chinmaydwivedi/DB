@@ -1,0 +1,9 @@
+apiVersion: sandbox/v1
+kind: Task
+metadata:
+  name: e2e-test-fibonacci
+spec:
+  code: "n = 20\na, b = 0, 1\nfor _ in range(n):\n    a, b = b, a + b\nprint(f'Fibonacci({n})\
+    \ = {a}')\n"
+  language: python
+  timeout_seconds: 30
